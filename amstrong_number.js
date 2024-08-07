@@ -6,9 +6,9 @@ for(let i = 0; i < convertedArr.length; i++) {
     temp += (convertedArr[i] ** convertedArr.length)
 }
 if(temp == number_string) {
-    console.log("Number is Amstrong");
+    console.log("Number is Armstrong ");
 } else {
-    console.log("Number is not Amstrong");
+    console.log("Number is not Armstrong ");
 }
 
 
